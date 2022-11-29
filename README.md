@@ -13,3 +13,10 @@ If you want to adjust dataset you can see example in data/custom.py
 
 # Demo
 I train with 1000 labeled imgs and 40000 unlabeled. After training, I have additional 4000 labeled.
+
+<p align="center">
+  <img src="images_u2pl/capture_0_frame_1_7_orig.png" width="200" title="hover text">
+  <img src="images_u2pl/capture_0_frame_3_1_orig.png" width="200" title="hover text">
+  <img src="images_u2pl/capture_0_frame_4_3_orig.png" width="200" title="hover text">
+  <img src="images_u2pl/capture_0_frame_16_0_orig.png" width="200" title="hover text">
+</p>
