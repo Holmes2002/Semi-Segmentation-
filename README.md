@@ -25,6 +25,7 @@ sh train.sh <num_gpu> <port>
 ```
 # Demo
 I train with 1000 labeled imgs and 40000 unlabeled. After training, I have additional 4000 labeled.
+You can filter to get good images after training and put to U-Net.
 
 <p align="center">
   <img src="images_u2pl/capture_0_frame_1_7_orig.png" width="200" title="hover text">
